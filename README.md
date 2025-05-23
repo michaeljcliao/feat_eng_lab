@@ -27,3 +27,27 @@ This repository contains a data science workflow applied to a dataset composed e
 - Preliminary binary classification
 - Model Selection: Multi-layer Perceptron, XGBoost
 - Evaluation Metrics: Precision, Recall, F1 Score, Confusion Matrix
+
+## Folder Structure
+
+```
+
+├── data (ignored by .gitignore due to size)
+│   ├── train_data.npy
+│   ├── eval_data.npy
+│   ├── train_labels.npy
+│   └── eval_labels.npy
+├── res
+│   ├── output1.png
+│   ├── output2.png
+│   ├── output3.png
+│   ├── output4.png
+│   ├── output5.png
+│   ├── output6.png
+│   ├── output7.png
+│   └── output8.png
+├── report.ipynb
+├── README.md
+└── .gitignore
+
+```
