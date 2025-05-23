@@ -18,3 +18,12 @@ This repository contains a data science workflow applied to a dataset composed e
 - Python 3.11.11
 - pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost
 - Jupyter Notebook
+
+## Techniques Used
+
+- Data Exploration: Descriptive statistics, visualizations (box plots, correlation heatmaps, scatter plots)
+- Feature Engineering: Principal Component Analysis (PCA), t-SNE
+- Balancing unbalanced datasets
+- Preliminary binary classification
+- Model Selection: Multi-layer Perceptron, XGBoost
+- Evaluation Metrics: Precision, Recall, F1 Score, Confusion Matrix
